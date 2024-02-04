@@ -10,8 +10,6 @@ Web-разработчик
 * ✉️  You can contact me at [evgeniyyatsenko@mail.ru](mailto:evgeniyyatsenko@mail.ru)
 <!--* 🚀  I'm currently working on [https://djon198360.github.io/skypro-music/](http://https://djon198360.github.io/webdev-cw-instapro/) -->
 
-<a href="https://www.github.com/djon198360/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/djon198360/?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
