@@ -21,11 +21,11 @@ Web-разработчик
 <p align="left"> <a href="https://www.github.com/djon198360/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
-
-[![](https://raw.githubusercontent.com/djon198360/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/djon198360/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/djon198360/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/djon198360/github-profile-summary-cards) [![](https://raw.githubusercontent.com/djon198360/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/djon198360/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/djon198360/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/djon198360/github-profile-summary-cards) [![](https://raw.githubusercontent.com/djon198360/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/djon198360/github-profile-summary-cards)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djon198360&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djon198360&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djon198360&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=djon198360&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djon198360&theme=github_dark&utcOffset=8)
 
 <b>My GitHub Stats</b>
 <div id="mycontent" style="display: flex;flex-direction: row; flex-wrap: wrap;justify-content: flex-start;">
