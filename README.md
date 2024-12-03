@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web-разработчик
 ---------------
-
-Интересуюсь IT очень давно , и вот решил окончить курсы , которые помогли мне структурировать мои знания .
+.
 
 * 🌍  I'm based in St. Petersburg
 * ✉️  You can contact me at [evgeniyyatsenko@mail.ru](mailto:evgeniyyatsenko@mail.ru)
