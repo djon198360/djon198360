@@ -6,7 +6,7 @@ Web-разработчик
 .
 
 * 🌍  I'm based in St. Petersburg
-* ✉️  You can contact me at [evgeniyyatsenko@mail.ru](mailto:evgeniyyatsenko@mail.ru)
+* ✉️  You can contact me at [le1907@mail.ru](mailto:le1907@mail.ru)
 <!--* 🚀  I'm currently working on [https://djon198360.github.io/skypro-music/](http://https://djon198360.github.io/webdev-cw-instapro/) -->
 
 ### Skills
